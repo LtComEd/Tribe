@@ -1,0 +1,38 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity meta files for ignored folders
+Assets/AssetStoreTools*
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.suo
+*.userprefs
+*.pidb
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Crashlytics
+crashlytics-build.properties
+
+# Packages — restore via Package Manager, don't commit
+# (comment this out if you have local package modifications)
+# Packages/
+
+# Keep these:
+# Assets/
+# Packages/
+# ProjectSettings/
